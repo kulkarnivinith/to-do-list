@@ -8,7 +8,7 @@ This is a simple and clean To-Do List web app made using HTML, CSS, and JavaScri
 - Remove task (double click)
 
 ### Live Demo
-👉 [Click here to view the site](https://vinithkulkarni.github.io/to-do-list-app/)
+👉 [Click here to view the site](https://kulkarnivinith.github.io/to-do-list/)
 
 ---
 
